@@ -1,4 +1,4 @@
-# g2p
+# g2p, created by David Teeple
 
 C# program for guessing pronunciation from orthography ("grapheme-to-phoneme mapping")
 
@@ -11,3 +11,4 @@ Example:  orthographies "honey" and "honor" have an LCS "hon" and their transcri
 The g2p program will add to those weights, as it interacts with the user.
 
 g2p_loop_thru_dict.sln is meant to loop through the existing Dictionary.txt file and identify forms with missing transcriptions, to be guessed by the g2p program and applied to an edited version of the dictionary. Currently it does not successfully loop, but stops on the first identified form.
+
