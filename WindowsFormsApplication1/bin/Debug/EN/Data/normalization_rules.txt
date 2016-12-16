@@ -1,0 +1,5 @@
+disabled	1	Month Year	0	4	0|semantic_groups=p_time	1|regex=month	2|regex=separator	3|regex=year	3	1|read_as_month	2|keep	3|read_as_year
+disabled	2	Month Year 1	0	3	0|semantic_groups=p_time	1|regex=month	2|regex=year	2	1|read_as_month	2|read_as_year
+disabled	3	Year 1	0	2	0|semantic_groups=n_period	1|regex=year	1	1|read_as_year
+disabled	4	Year 2	0	2	0|semantic_groups=p_time	1|regex=year	1	1|read_as_year
+disabled	5	PIN	0	2	0|semantic_groups=n_communication	1|regex=digits	1	1|read_as_digits

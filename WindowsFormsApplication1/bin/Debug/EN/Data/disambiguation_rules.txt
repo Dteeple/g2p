@@ -1,0 +1,38 @@
+disabled	2	{v} - Infinitive after "to"	4	2	0|form_type=infinitive	-1|pos=verb particle|form=to
+disabled	3	{v} - Infinitive after "to" + {r}	5	3	0|form_type=infinitive	-1|pos=adverb	-2|pos=verb particle|form=to
+disabled	6	{v} - Infinitive after {m}	4	2	0|form_type=infinitive	-1|pos=modal
+disabled	7	{v} - Infinitive after {m} + {g}	5	3	0|form_type=infinitive	-1|pos=negation	-2|pos=modal
+disabled	8	{v} - after {o}	5	2	0|pos=verb	-1|form_type=subjective
+disabled	9	{v} - after {r}	5	2	0|pos=verb	-1|pos=adverb|semantic_groups=r manner
+disabled	10	{v} - before {r}	4	2	0|pos=verb	1|pos=adverb
+disabled	12	{n} - after {n}	2	3	0|pos=noun	-1|pos=noun	-2|pos=article
+disabled	13	{v} - after {g}	4	2	0|form_type=infinitive	-1|form=not
+disabled	15	{v} - before {t} + {n}	4	3	0|pos=verb	1|pos=article	2|pos=noun
+disabled	16	{o} - before {t} + {n} - dative shift	2	4	0|form_type=objective	-1|pos=verb	1|pos=article,demonstrative,quantifier	2|pos=noun
+disabled	17	{v} - between two {o}	3	3	0|pos=verb	-1|pos=pronoun|form_type=subjective	1|pos=pronoun|form_type=objective
+disabled	18	{v} - after {s}	4	2	0|pos=verb|form_type=present,past	-1|semantic_groups=s defining
+disabled	20	{v} - after {v} + {c}	4	3	0|pos=verb	-1|pos=conjunction	-2|pos=verb
+disabled	21	{a} - after {d}	5	2	0|pos=adjective	-1|pos=adadjective
+disabled	22	{n} - after {t}	5	2	0|pos=noun	-1|pos=article
+disabled	25	{n,o,x} - before {m}	4	2	0|pos=noun,pronoun,name	1|pos=modal
+disabled	27	{n} - after {a}	5	2	0|pos=noun	-1|pos=adjective
+disabled	28	3rd Sg Cont - After {o}	4	2	0|form=be|form_type=present s3 contracted	-1|form_type=subjective
+disabled	29	Poss - After {n}, Before {a,n,x}	5	3	0|pos=possessive	-1|pos=noun,name	1|pos=adjective,noun,name
+disabled	31	{n} - Plural after plural + {c}	5	3	0|pos=noun|form_type=plural	-1|pos=conjunction	-2|pos=noun|form_type=plural
+disabled	34	{a} - btn {t,z,q} + {n}	5	3	0|pos=adjective	-1|pos=article,demonstrative,quantifier	1|pos=noun
+disabled	39	Poss - before {n} gerund	5	4	0|pos=possessive	-1|pos=noun,name	1|pos=noun	2|pos=verb
+disabled	40	3rd Sg Cont - After {Q}	6	2	0|form=be|form_type=present s3 contracted	-1|pos=question
+disabled	41	3rd Sg Cont - {C}	6	2	0|form=be|form_type=present s3 contracted	-1|pos=existential
+disabled	42	3rd Sg Cont - After "that"	6	2	0|form=be|form_type=present s3 contracted	-1|form=that
+disabled	43	{a} - btn "as" + "as"	4	3	0|pos=adjective	-1|form=as	1|form=as
+disabled	45	{v} - Participle after "have"	5	2	0|form_type=participle	-1|pos=verb|form=have
+disabled	46	{v} - Progressive after "be"	5	2	0|form_type=gerundive	-1|pos=verb|form=be
+disabled	47	{v} - after {x,n}	4	2	0|pos=verb	-1|pos=name,noun
+disabled	48	{n} - before {t} + {n} - dative shift	4	4	0|pos=name,noun	-1|pos=verb	1|pos=article,demonstrative,quantifier	2|pos=noun
+disabled	49	{n} gerund - after {V}, before {v}	5	3	0|pos=noun	-1|pos=possessive	1|pos=verb
+disabled	50	{a} - after {t}	5	2	0|pos=adjective	-1|pos=article
+disabled	51	{v} - participle after "be" (passive)	5	3	0|form_type=participle	-1|pos=verb|form=be	1|semantic_groups=p subject
+disabled	52	{n} - after {o} poss	5	2	0|pos=noun	-1|form_type=possessive
+disabled	53	{v} - before {A}	5	2	0|pos=verb	1|pos=verb particle
+disabled	54	{x} - after {l}	5	2	0|pos=name	-1|pos=title
+disabled	55	{a} - btn {o} poss + {n}	5	3	0|pos=adjective	-1|form_type=possessive	1|pos=noun
